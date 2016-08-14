@@ -1,17 +1,16 @@
 <?php
 
-require_once("inc/connection.inc.php")
+require_once("inc/functions.inc.php");
 
-$mobile = $_GET['mobile'];
-$password = $_GET['password'];
+$mobile = mysqli_real_escape_string($con, $_GET['mobile']);
+$password = mysqli_real_escape_string($con, $_GET['password']);
 
-$sql = "INSERT INTO user(mobile, password)
-VALUES ($mobile, $password)";
-
-if (mysqli_query($conn, $sql)) {
-    echo "New record created successfully";
+if(login($mobile, $password)) {
+	$response = "successful";
 } else {
-    echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+	$response = "unsuccessful";
 }
+
+echo($response);
 
 ?>

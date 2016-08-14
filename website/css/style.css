@@ -1,0 +1,45 @@
+body {
+	/*background-color: rgba();*/
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	font-weight: 300;
+	-webkit-font-smoothing: antialiased;
+}
+
+#entry {
+/*	padding-left: 20vw;*/
+	margin-top: 15vh;
+}
+
+#feedback {
+	margin-top: 15vh;
+}
+
+
+input {
+	width: 30vw !important;
+}
+
+input[type="submit"] {
+	width: 10vw !important;
+}
+
+.input-field {
+	text-align: left;
+}
+
+.input-field label {
+	text-align: left;
+    left: 0rem !important;
+}
+
+.waves-effect {
+	margin-right: 40px;
+}
+
+.tok-num {
+	font-size: 40px;
+	min-height: 50px;
+	margin-top: 50px;
+}
