@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5c036cbc07943e13358d5eb85485329bb7771662">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99c5613c208a93f8ead759adff264d8f68761eed/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_d7be7efecfdcbae4ebddf0a38373a598dce9cf41/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_3ce8053dcee0ae5bd672930b456f1b63cbe5fcfd/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_20b43b3ef115f1c19e11147b88b7297c62810aa3/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_f3b0f9054311a30044727901c3740ec2bcc27ad9/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_d0530b44b12b1aced2f784889718bd2483a96ade/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_d8906cb81d169c471a484031e949d5d2484d4696/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_fc20c54add87230ea98aa83fcf10f0b13713d056/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_591259dcdc9eb1912e6266cffcae4488ed4a3b0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_06a0f8b2b05e2e21d11315978283105a48aed19c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_43e857e2e147e517d277f1119b4f1a1aba096e79/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9118c20c3cfe07c3cd2ce0d0562c02e34cc7d29a">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9236272ddafd808741f7262e127f3663f65ec305/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.robinhood.ticker/ticker/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f6ac7e239de08374cc3bbed5d2fb314952ae98f4">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.robinhood.ticker-ticker-1.1.0_99a10ab937f9b8bb388869e05f4f74e29eec655c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_ee25264e7cec2dc3007fc9c832263a34558816fb/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_15ec5174e3b1b0cb277231d3e87454fa348992ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_daacb8c24449e6510de47285f2c777a361d63cc3/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_00d0a8517915ba501de4c255c87479f92f0fb25a/classes.dex" />
+    </item>
+    <item
+        jar="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/sachin/AndroidStudioProjects/DocDoc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_a6e4fb9572a051827d41a8191fe441429dfefa80/classes.dex" />
+    </item>
+
+</items>
